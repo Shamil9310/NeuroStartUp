@@ -1,5 +1,7 @@
 ## Hello world
-
-I study is Netology
-
-09.10.2023
+![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
+*NeuroStartUp* — динамически развивающийся стартап, специализирующийся на поиске с использованием
+Наши преимущества:
+1. Высокая точность поиска
+2. Высокая скорость поиска
+3. Низкая цена
